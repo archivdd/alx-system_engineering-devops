@@ -1,2 +1,2 @@
-#!/bin/bash 3-l
-ls -l 3-l
+#!/bin/bash 4-listmorefiles
+ls -la 4-listmorefiles
