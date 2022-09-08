@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'Best= "School"' >> 6-create_local_variable
